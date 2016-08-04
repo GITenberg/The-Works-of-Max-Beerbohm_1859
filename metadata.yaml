@@ -1,0 +1,35 @@
+_repo: The-Works-of-Max-Beerbohm_1859
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Lane, John
+    birthdate: 1854
+    deathdate: 1925
+    gutenberg_agent_id: '5834'
+    url: http://www.gutenberg.org/2009/agents/5834
+creator:
+  author:
+    agent_name: Beerbohm, Max, Sir
+    alias: Beerbohm, Henry Maximilian, Sir
+    birthdate: 1872
+    deathdate: 1956
+    gutenberg_agent_id: '397'
+    url: http://www.gutenberg.org/2009/agents/397
+    wikipedia: http://en.wikipedia.org/wiki/Max_Beerbohm
+description: ''
+gutenberg_issued: '1999-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1859'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Dandies and dandies -- A good prince -- 1880 -- King George the Fourth
+  -- The pervasion of rouge -- Poor Romeo! -- Diminuendo -- Bibliography.
+title: The Works of Max Beerbohm
+url: http://www.gutenberg.org/ebooks/1859
